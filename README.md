@@ -10,8 +10,8 @@
 
 ### Frameworks :rocket:
 
-| <img src="./images/spring-boot.png" width=60> | <img src="./images/docker.png" width=60> | <img src="./images/kubernetes.png" width=60> |
-| :-------------------------------------------: | :--------------------------------------: | :------------------------------------------: |
+| <img src="./images/spring-boot.png" width=60> | <img src="./images/docker.png" width=60> | <img src="./images/kubernetes.png" width=60> | <img src="./images/elasticsearch.png" width=60> |
+| :-------------------------------------------: | :--------------------------------------: | :------------------------------------------: | :---------------------------------------------: |
 
 ### Connect with me :smiley:
 
