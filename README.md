@@ -2,7 +2,30 @@
   <img src="./images/github.gif" width=200>
   <br><br>
   <samp>
-    I'm Rahul Lokurte. I'm a software developer with 8 years of experience. Working in industry like software development/engineering exposes you to huge amount of emerging technologies. Here are some of the tools I'm currently working with and most excited about.
+    
+🔑 I'm Rahul Lokurte. I'm a Lead developer with 9 years of experience.
+    
+🔑 Experience in designing and building applications using Containers and Serverless technologies.
+
+🔑 Extensive experience in designing and programming distributed applications in an AWS Cloud environment leveraging capabilities such as EC2, S3, EKS, Lambda, Step Functions,     API Gateway.
+
+🔑 Hands-on familiarity with Infrastructure As Code (IAC) tools like CloudFormation and Terraform.
+
+🔑 Strong knowledge of Kubernetes, Docker.
+
+🔑 Actively stays abreast of technology breakthroughs, open-source & Cloud, recommends best practices and share learning with the team.
+
+🔑 Love writing blogs on AWS services and serverless technologies. 
+
+🔑 Good Knowledge of microservices-based architecture, Serverless architecture, full-stack engineering, cloud-native computing concepts.
+
+🔑 Proven track record in enterprise-wide API management, microservices, event-driven architectures, and complex integrations
+
+🔑 Experience with NoSQL databases such as MongoDB/DynamoDB.
+
+🔑  Developed cloud-native applications using Java, and stronghold on other programming languages like Javascript, Python.
+
+🔑 Experience in using frameworks like SpringBoot, NodeJs.
   </samp>
 </p>
 
