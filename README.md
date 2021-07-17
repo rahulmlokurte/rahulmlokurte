@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="./images/github.gif" width=200>
-  <br><br>
-  <samp>
+![](https://komarev.com/ghpvc/?username=rahulmlokurte&color=brightgreen&style=flat-square)
+
     
 🔑 I'm Rahul Lokurte. I'm a Lead developer with 9 years of experience.
     
