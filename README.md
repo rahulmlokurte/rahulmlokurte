@@ -41,4 +41,4 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=blue)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-[![Rahul Lokurte's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmlokurte)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul Lokurte's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmlokurte&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
