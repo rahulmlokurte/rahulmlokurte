@@ -43,3 +43,5 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 [![Rahul Lokurte's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmlokurte&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rahul Lokurte's Card](https://github-readme-stats.vercel.app/api/pin/?username=rahulmlokurte&repo=terrapro)](https://github.com/rahulmlokurte/terrapro)
