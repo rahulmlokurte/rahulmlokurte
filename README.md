@@ -1,29 +1,65 @@
-# 👋 Welcome to Rahul Lokurte's GitHub Profile! 🚀
 
-Hey there! I'm Rahul Lokurte, a Lead developer with **10 years of experience** in designing and building awesome applications. I'm passionate about leveraging the latest technologies and cloud platforms to develop robust and scalable solutions. Let's dive into my skills and expertise:
+<h1>Hi , I'm Rahul Lokurte <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 🔑 Key Skills and Experience
+*I have more than decade experience in designing and building applications using Containers and Serverless technologies. I focus on DevOps practices. I am passionate about exploring AWS cloud patterns, configuring CI/CD pipelines, Writing AWS SAM pipelines, working on open source projects.*
 
-- **Application Development**: I'm a wizard when it comes to designing and programming distributed applications in an AWS Cloud environment. I've worked with powerful services like EC2, S3, EKS, Lambda, Step Functions, and API Gateway. 🌟
+*My toolkit includes `AWS Services` (`Lambda`, `S3`, `CloudFormation`, `RDS`, `DynamoDB`, `CloudWatch`, `VPC`, `Route53`, `CloudFront`, `API Gateway`, `Load Balancer`, `CodeDeploy`, `CodeCommit`, `CodeBuild`), `Docker`, `Terraform`, `Jenkins`, `Kubernetes`, `Maven`, `Grafana`, `Prometheus`, `Linux`, `Bash Scripting`, `Git`, `GitHub`, `GitLab`, `DevOps`, `CI/CD`, `Cloud Computing`, `Microservices`, `Serverless`, and more.*
 
-- **Containers and Serverless Technologies**: I'm all about efficiency! I specialize in designing and building applications using Containers and Serverless technologies. I have a deep understanding of Kubernetes and Docker, which allows me to create scalable and lightning-fast solutions. ⚡️
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmlokurte&show_icons=true&theme=radical)
 
-- **Infrastructure as Code (IAC)**: I believe in managing infrastructure programmatically. With tools like CloudFormation and Terraform, I can wave my magic wand and bring infrastructure to life. 🏗️
 
-- **Microservices and Serverless Architecture**: I love breaking things down! I have a strong knowledge of microservices-based architecture and serverless computing concepts. I've successfully implemented enterprise-wide API management, event-driven architectures, and complex integrations. 🌐
+## :zap: Skills
 
-- **Database Expertise**: I'm no stranger to data storage challenges! I've worked with NoSQL databases like MongoDB and DynamoDB, crafting efficient and scalable data storage solutions. 💾
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
+  </a>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+ </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+    <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <br/><br/>  <br/><br/>
 
-- **Programming Languages and Frameworks**: I'm a polyglot! I've developed cloud-native applications using Java, and I'm also proficient in languages like JavaScript and Python. Frameworks like Spring Boot and Node.js are my trusty sidekicks in rapid application development and deployment. 🚀
 
-- **Continuous Learning and Sharing**: I'm constantly exploring the latest technology breakthroughs, open-source tools, and cloud advancements. I love sharing my learnings through engaging blog posts, with a particular focus on AWS services and serverless technologies. Let's grow and learn together! 🌱
-
-## 🌐 Connect with Me
-
-If you're as passionate about technology as I am, I'd love to connect with you! Feel free to reach out to me on the following platforms:
-
-- **GitHub**: You're already here! Take a peek at my repositories and projects. 🧐
-- **LinkedIn**: Let's connect professionally on [LinkedIn](https://www.linkedin.com/in/rahullokurte/). 🤝
-- **Personal Website/Blog**: Check out my personal website and blog at [www.rahullokurte.com](https://rahullokurte.com) for more exciting content! 🌐
-
-Thank you for visiting my GitHub profile. Let's join forces and explore new possibilities together! Feel free to reach out, and let's make some magic happen! ✨🚀
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rahullokurte/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:rahul.m.lokurte@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://rahullokurte.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
+</div>
+<div id="visit count" align="center">
+<img src="https://komarev.com/ghpvc/?username=rahulmlokurte&style=flat-square&color=blue" alt=""/>
+</div>
