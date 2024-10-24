@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/rahulmlokurte?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rahulmlokurte"><img src="https://github-readme-stats.vercel.app/api?username=rahulmlokurte&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ec4899&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="rahulmlokurte's GitHub stats" /></a>
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmlokurte&theme=catppuccin_mocha&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Top Repositories</b>
 
